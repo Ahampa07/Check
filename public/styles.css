@@ -1,0 +1,15 @@
+#RoomBox{
+            float:left;
+            width:100px;
+            border-right:1px solid black;
+            height:300px;
+            padding:10px;
+            overflow:scroll-y;
+}
+#ChatBox{
+            float:left;
+            width:300px;
+            height:250px;
+            overflow:scroll-y;
+            padding:10px;
+}
